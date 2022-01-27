@@ -1,6 +1,8 @@
 # Smart Contract and NFT minting test project
 
 
+Solidity, Javascript, hardhat, zeppelin, alchemy, Rinkeby.
+
 Try running some of the following tasks:
 
 ```shell
